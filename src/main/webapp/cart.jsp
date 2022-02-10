@@ -27,6 +27,10 @@
             <li class="nav-item"><a class="nav-link" href="AddToShoppingCart">Carrito</a></li>
             <li class="nav-item"><a class="nav-link" href="login.jsp">Login</a></li>
             <li class="nav-item"><a class="nav-link" href="admin.jsp">Administrar productos</a></li>
+            <li class="nav-item ">
+                <a class="nav-link" href="products-view.jsp">Lista de productos</a>
+            </li>
+
         </ul>
         <div class="nav navbar-right">
             <div class="center-block">
@@ -48,5 +52,6 @@
     </ul>
     <a href="index.jsp">Volver</a>
 </div>
+
 </body>
 </html>
